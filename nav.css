@@ -1,0 +1,26 @@
+nav{
+	background-color: red;
+	height:40px;
+	width: 100%;
+	} 
+nav ul li{
+	list-style-type: none;
+	float: left;
+	margin-top: 10px;
+	margin-left: 20px;
+	}     
+ul li a{
+	color: white;
+	text-decoration: none;
+	} 
+.dropdownlist{
+	display: none;
+} 
+.dropdownlist a{
+	background-color: red;
+	color: white;
+	display: block;
+	}
+.dropdown:hover  .dropdownlist{
+	display: block;
+	}	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   <
